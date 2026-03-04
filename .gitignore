@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+.env
+
+# Pytest cache
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
